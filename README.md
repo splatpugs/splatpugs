@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning how to become a junior data engineer.
+- 🌱 I’m currently learning how to transition to a junior data engineer.
 - 💻 I have a programming background in C++/C#/Java/Python.
 - 💼 I used to work as a Senior Technical SEO Specialist.
 - 💬 Feel free to ask me about anything SEO related!
