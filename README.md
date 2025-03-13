@@ -1,9 +1,9 @@
 # Hi there 👋
 
-- 🌱 I’m currently interested in understanding how data ingestion & transformation affect business operations as a whole.
-- 💻 I have a programming background in C++/C#/Java/Python.
-- 💼 I used to work as a Senior Technical SEO Specialist.
-- 👩🏻‍💻 Left my job in May 2024 to focus on my penultimate year of studies (SUSS).
-- 💬 Feel free to ask me about anything SEO related!
-- 📫 How to reach me: drop me a DM! or via [LinkedIn](https://www.linkedin.com/in/johjs/)
+- 🌱 I’m currently interested in understanding how data ingestion & transformation affect business operations as a whole (end-to-end campaigns, etc.)
+- 💻 I have a programming background in Python.
+- 💼 I used to work as a Senior SEO Specialist & Account Manager.
+- 👩🏻‍💻 Left my job in April 2024 to focus on my penultimate year of studies (SUSS).
+- 💬 Feel free to ask me about anything SEO/Marketing related!
+- 📫 How to reach me: via [LinkedIn](https://www.linkedin.com/in/johjs/)
 
